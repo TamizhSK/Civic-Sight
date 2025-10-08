@@ -1,4 +1,4 @@
-# GCP PDF Parser for Electoral Data
+# Civic Sight 
 
 A Python application that uses Google Cloud Document AI to extract electoral data from PDF files and save the results to Excel.
 
@@ -15,13 +15,8 @@ A Python application that uses Google Cloud Document AI to extract electoral dat
 
 ## Setup
 
-1. **Run the setup script:**
-   ```bash
-   chmod +x setup.sh
-   ./setup.sh
-   ```
-   
-   Or manually:
+1. **Type this manually:**
+
    ```bash
    python3 -m venv venv
    source venv/bin/activate
