@@ -1,7 +1,5 @@
 {
-  "config": {
-    "debug": true,
-    "timeout": 2094,
-    "retries": 2
-  }
+  "version": "2.4.4",
+  "updated": "2026-05-07T18:33:20.060417",
+  "status": "active"
 }
