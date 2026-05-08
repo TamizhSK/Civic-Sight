@@ -1,2 +1,1 @@
-Configuration updated
-Version: 370
+Release notes for version 3.7.4
