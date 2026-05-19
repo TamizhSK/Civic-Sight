@@ -1,2 +1,2 @@
 Configuration updated
-Version: 524
+Version: 766
