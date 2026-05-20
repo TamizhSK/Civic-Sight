@@ -1,5 +1,7 @@
 {
-  "version": "2.3.9",
-  "updated": "2026-05-19T18:30:15.136517",
-  "status": "active"
+  "metadata": {
+    "build": 556,
+    "timestamp": 1779280406,
+    "environment": "development"
+  }
 }
