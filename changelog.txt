@@ -1,2 +1,1 @@
-Configuration updated
-Version: 215
+Release notes for version 3.6.0
